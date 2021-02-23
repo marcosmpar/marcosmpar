@@ -1,9 +1,7 @@
 
     <h1 align="center">Hi 👋, I'm Marcos Rodrigues</h1>
     <h3 align="center">A software developer from Brazil</h3>
-
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosmpar" alt="marcosmpar" /> </p>
-
     - 🔭 I’m currently working on **Multicoisas Franquias**
 
     - 💬 Ask me about **HTML, CSS, JS, SQL, React Native**
